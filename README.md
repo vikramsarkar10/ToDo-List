@@ -1,6 +1,6 @@
 # ToDo-List
 A ToDo Web Application for your daily tasks !
-Made using Node.Js , Expess and EJS
+Made using Node.Js , Express.Js and EJS
 -----------------------------------------------------------------------------------------------
 There are 3 pages to would like to visit:
 
